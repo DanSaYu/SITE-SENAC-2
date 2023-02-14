@@ -179,12 +179,13 @@ h2{
     font-weight: bold;
 }
 
-.direita-baixo{
+.direita-baixo {
     display: flex;
     flex-direction: column;
 }
 
 .slime-img{
+    transition: 0.5s;
     display: flex;
 }
 
@@ -192,14 +193,14 @@ h2{
     transform: scale(1.05);
     border-left: 5px solid #f5a000;
     background-color: rgb(15, 15, 15);
-    transition: 0.4s;
+
 }
 
-p{
+p {
     color: #B4D3D3;
 }
 
-h3{
+h3 {
     color: rgb(255, 255, 255);
 }
 
@@ -218,7 +219,7 @@ h3{
     }
 }
 
-footer{
+footer {
     text-align: center;
     margin-top: 60px;
     background-color: rgb(24, 24, 24);
