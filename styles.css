@@ -225,5 +225,6 @@ footer {
     margin-top: 60px;
     background-color: rgb(24, 24, 24);
     padding: 30px 30px;
-    color: rgb(85, 85, 85);
+    color: rgb(206, 206, 206);
+    opacity: 80%;
 }
